@@ -3,7 +3,7 @@
 - 🌱  I’m currently learning Flutter Mobile
 - 💞️  I’m looking to collaborate on community of developers web
 - 📫  How to reach me? You just need send an e-email on: bruunolinsdev@gmail.com
-- 📸  I'm a instagrammer, so you can follow-me there! @idevnotes
+- 📸  I'm a host of pogcast, so you can follow-me there! @opogpdc
 
 <!---
 devBrunoLins/devBrunoLins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
